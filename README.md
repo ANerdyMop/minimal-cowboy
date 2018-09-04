@@ -1,6 +1,9 @@
 
-Minimal-Cowboy
+Minimal-Cowboy: Ben Cotton's fork
 ==============
+
+FORKED: from Mathias Vonende's repo: https://github.com/maze-le/minimal-cowboy
+
 
 This is a minimal example for integration of the cowboy-webserver into an
 erlang/otp application stack.
